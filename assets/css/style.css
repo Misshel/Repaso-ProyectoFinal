@@ -15,3 +15,10 @@ form#myForm{
   background-color: #dbd918;
   padding: 15px 15px 15px 15px;
 }
+/*estilo para registro*/
+div{
+  display: inline-block;
+    margin-top: initial;
+    background-color: #dbd918;
+    padding: 15px 15px 15px 15px;
+}
