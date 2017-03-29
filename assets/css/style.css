@@ -1,0 +1,17 @@
+body{
+  text-align: center;
+  padding-top: 80px;
+  background-color: #5ed1ce
+}
+label {
+  width: 90px;
+  display: inline-block;
+}
+/*estilo para registro*/
+form#myForm{
+  display: inline-block;
+  margin-top: initial;
+  border-bottom-color: antiquewhite;
+  background-color: #dbd918;
+  padding: 15px 15px 15px 15px;
+}
